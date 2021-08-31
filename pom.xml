@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>Pelaez.Alejandro</groupId>
-  <artifactId>Pelaez-COP3330-ex01</artifactId>
+  <artifactId>Pelaez-COP3330-ex10</artifactId>
   <version>1.0</version>
 
-  <name>Pelaez-COP3330-ex01</name>
-  <url>https://github.com/AlejanPelaez9004/Pelaez-COP3330-ex01</url>
+  <name>Pelaez-COP3330-ex10</name>
+  <url>https://github.com/AlejanPelaez9004/Pelaez-COP3330-ex10</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
